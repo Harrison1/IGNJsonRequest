@@ -6,3 +6,6 @@ I created a program in Java that displays a list of videos and articles using IG
 This program was made for IGN's 2015 Code Foo Challenge.
 
 Below are some pics.
+
+![Alt text](/screenshots/ignjsonp1.PNG?raw=true)
+![Alt text](/screenshots/ignjsonp2.PNG?raw=true)
